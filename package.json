@@ -1,0 +1,26 @@
+{
+  "name": "table-redis",
+  "version": "1.0.0",
+  "description": "mysql table data redis cache tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyqqk/tableRedis.git"
+  },
+  "keywords": [
+    "table-redis"
+  ],
+  "author": "luckyqqk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luckyqqk/tableRedis/issues"
+  },
+  "homepage": "https://github.com/luckyqqk/tableRedis#readme",
+  "dependencies": {
+    "ioredis": "^3.1.4",
+    "db-table": "^1.0.0"
+  }
+}
