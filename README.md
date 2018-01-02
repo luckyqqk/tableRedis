@@ -12,7 +12,7 @@ mysql table data redis cache tool
 ### 依赖
 ```
 "dependencies": {
-		"ioredis": "^3.1.4"
+		"redis": "^2.8.0"
 }
 ```
 

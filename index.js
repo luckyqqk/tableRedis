@@ -1,1 +1,3 @@
-module.exports = require('./lib/tableRedis');
+module.exports = {
+    components: __dirname + '/lib/components/'
+};
